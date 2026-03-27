@@ -1,0 +1,43 @@
+# Heavy dependencies (downloaded by install.py)
+ComfyUI/
+ffmpeg/
+ffmpeg.zip
+
+# Generated content
+scenes/
+audio/
+clips/
+final/
+*.mp4
+*.wav
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+comfyui.log
+comfyui_err.log
+
+# Test outputs
+audio/test_*.wav
+scenes/test_*.png
