@@ -16,13 +16,9 @@ The system uses **Claude Code** (or any agent) as the orchestration brain, **Com
 
 ## Demo
 
-Add your own generated video here once you've rendered one:
+![Demo](demo.gif)
 
-```markdown
-![Demo](final/output_<timestamp>.mp4)
-```
-
-Or upload to GitHub releases and link it from the README.
+A short preview of the kind of output the pipeline produces — Ken Burns motion, lower-third caption, voiceover (in the full MP4). Run `python main.py "Your prompt" --duration 5` to generate your own.
 
 ---
 
