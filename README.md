@@ -14,13 +14,6 @@ The system uses **Claude Code** (or any agent) as the orchestration brain, **Com
 
 ---
 
-## just a image to animation, like google flow(1st part)
-
-![Demo](demo.gif)
-
-A short preview of the kind of output the pipeline produces — Ken Burns motion, lower-third caption, voiceover (in the full MP4). Run `python main.py "Your prompt" --duration 5` to generate your own.
-
----
 
 ## Features
 
