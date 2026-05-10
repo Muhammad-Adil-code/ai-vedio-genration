@@ -14,7 +14,7 @@ The system uses **Claude Code** (or any agent) as the orchestration brain, **Com
 
 ---
 
-## Demo
+## just a image to animation, like google flow
 
 ![Demo](demo.gif)
 
